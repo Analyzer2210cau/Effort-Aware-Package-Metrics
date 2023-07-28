@@ -11,9 +11,12 @@ working directory is "script_r" folder. This "script_r" folder consists of R scr
 =====================================================
 1.) Download and install R
 2.) Download and instal R-studio for better performance and installation of packages 
-2.) install the following packages: RWeka, car, usdm, effsize, ScottKnott by the following commands in R
+2.) install the following packages: dplyer, glm, plot, rpart, stats, utils by the following commands in R
 	install.packages("dplyer")
 	install.packages("glm")
+        install.packages("rpart")
+        install.packages("stats")
+        install.packages("plot")
 	
 
 
@@ -30,4 +33,4 @@ working directory is "script_r" folder. This "script_r" folder consists of R scr
 
 [Output]
 > Classification results are depicted in Table 6 
-> Ranking 
+> Ranking results shown in Figure 3
