@@ -1,8 +1,8 @@
 
-Effort-Aware Classification: This folder contains data-sets and R-scripts for experimental analysis of effort aware classification models.    
-Effort-Aware Ranking: This folder contains data-sets and R-scripts for generating graphical model of effort-aware ranking.  
+Effort-Aware Classification: This folder contains data-sets and R-scripts file for experimental analysis of effort aware classification models.    
+Effort-Aware Ranking: This folder contains data-sets and R-scripts files for generating graphical model of effort-aware ranking.  
 
-working directory is "script_r" folder. This "script_r" folder consists of R scripts and README.txt that explains how to run R scripts.
+Inside each folder mentioned there is README.txt file that explains how to run R scripts.
 
 
 
