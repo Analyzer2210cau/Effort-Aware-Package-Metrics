@@ -3,7 +3,7 @@ Data-Sets: This folder contains data-sets used in paper.
 --- Eclipse-3.0, 2.Eclipse-2.1, POI-2.5, POI-3.0, Camel-1.6, JDTCore-3.4, Lucene-2.4 
 --- each file is matrix of packages as rows and studies metrics as columns 
      
-R-Script: This folde mainly 1 .R script file having 4 functions. 
+R-Script: This folder has mainly one .R script file having 4 functions. 
 
  1. EffortAwareRankingRandom(pathRandom): It is function that generates random graph for faults on y-axis and KSLOC on x-axis 
 
@@ -19,7 +19,7 @@ R-Script: This folde mainly 1 .R script file having 4 functions.
 =====================================================
 1.) set the path of project from dataset folder
 2.) Execute code of all the 4 functions together 
-3.) Call four function to see graph for each project as depicted in the Figure: 2
+3.) Call four function to see graph for each project as depicted in the Figure: 3
  
 
-Note:- Repeat these steps for all the projects to reproduce graphs presented in the Figure: 2  
+Note:- Repeat these steps for all the projects to reproduce graphs presented in the Figure: 3  
